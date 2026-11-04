@@ -15,3 +15,4 @@
 3. **Запуск автоматизованих тестів:**
    * **Через IntelliJ IDEA:** натисніть правою кнопкою миші на папку `src/test/java` у дереві проєкту та виберіть **Run 'All Tests'**
    * **Через термінал (Maven):** виконайте команду `mvn test`
+<img width="1886" height="407" alt="Снимок экрана 2026-11-04 022335" src="https://github.com/user-attachments/assets/3ecad079-9ce6-4551-b21e-e256797dece2" />
